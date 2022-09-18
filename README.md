@@ -1,10 +1,10 @@
 # WeatherApp-PortfolioProject_1
 
-* I created a weather app with dark and light mode compatible.
-* You can check your current location weatherwhich based GPS. 
-* You can searching cities by search button and go button in the keyboard.
+●  I created a weather app with dark and light modes compatible.
+● You can check your current location weather based on GPS.
+● You can search cities by search button and go button in the keyboard.
+● Besides using many quick language features, my goal in this app was to show I'm using URLSession and parse JSON.
 
-* Although I use many swift language features, my purpose in this application was to show that I am using URLSession and parse JSON.
 * I'm leaving below some images of the application.
 
 ![Simulator Screen Shot - iPhone 11 - 2022-08-11 at 19 24 18](https://user-images.githubusercontent.com/76867730/184258661-c1c99c97-77de-4afd-ba60-3f8643f2c5c9.png)
